@@ -1,0 +1,25 @@
+.animal-card {
+	border: 1px solid lightgray;
+	padding: 15px;
+	display: inline-block;
+}
+.animal-image {
+	width: 300px;
+}
+.animal-data {
+	border: 1px solid lightgray;
+	padding: 10px;
+	width: 278px;
+}
+.factoid {
+	font-style: italic;
+}
+.fact-list {
+	list-style-type: none;
+	list-style-position: outside;
+}
+.info {
+	font-weight: bold;
+}
+/*
+spacing between the animal's name, image, and information (you will need to use the property padding)*/
